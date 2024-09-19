@@ -1,2 +1,76 @@
+.holder1{
+	display: flex;
+	justify-content: space-between;
+}
 
-/* Your CSS Code here. */
+
+.item3{
+	background-color: green;
+	width: 150px;
+	height: 150px;
+	font-size: 50px;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.item1{
+	background-color: red;
+	width: 150px;
+	height: 150px;
+	font-size: 50px;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.item2{
+	background-color: blue;
+	width: 150px;
+	height: 150px;
+	font-size: 50px;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.holder2{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-top: 30%;
+	gap: 20px;
+}
+
+.item4{
+	background-color: green;
+	width: 150px;
+	height: 150px;
+	font-size: 50px;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.item5{
+	background-color: green;
+	width: 150px;
+	height: 150px;
+	font-size: 50px;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.item6{
+	background-color: green;
+	width: 150px;
+	height: 150px;
+	font-size: 50px;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.item7{
+	background-color: green;
+	width: 150px;
+	height: 150px;
+	font-size: 50px;
+	font-weight: bold;
+	padding: 10px;
+}
